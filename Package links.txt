@@ -1,0 +1,10 @@
+Anaconda: https://www.anaconda.com/products/individual
+
+
+
+Packages:
+Python Speech Recognition: https://pypi.org/project/SpeechRecogn...?
+Python Text to Speech: https://pypi.org/project/pyttsx3/?
+Python Audio: https://anaconda.org/anaconda/pyaudio?
+Python pywhatkit: https://pypi.org/project/pywhatkit/?
+Python Wikipedia: https://pypi.org/project/wikipedia/
